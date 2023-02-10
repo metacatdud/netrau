@@ -1,3 +1,12 @@
+# General
+.DS_Store
+.idea
+bin/*
+vendor/*
+config.json
+__debug_bin
+coverage.out
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,3 +22,4 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+

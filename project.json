@@ -1,0 +1,17 @@
+{
+ "id": "netrau-aebdub",
+ "repo": "git@github.com:metacatdud/netrau.git",
+ "servicesPath": "./internal",
+ "services": [
+  {
+   "id": "kiosk-jfhkhw",
+   "path": "internal/kiosk",
+   "version": "0.0.1"
+  },
+  {
+   "id": "hub-uhaotl",
+   "path": "internal/hub",
+   "version": "0.0.1"
+  }
+ ]
+}
